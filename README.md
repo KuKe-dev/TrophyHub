@@ -6,20 +6,12 @@ TrophyHub is the centralized platform built for completionist gamers. It is a sp
 
 **What does TrophyHub offer?**
 
-
+* **🌐 Omni-Channel Profile:** Sync your Steam, Xbox Network, PlayStation Network, and RetroAchievements accounts to showcase your "Global Gamer Level" to the world.
+* **📖 Community-Driven Guides:** A step-by-step guide engine featuring integrated videos and expert tips to help you unlock even the toughest challenges.
+* **💬 Challenge Forums:** Dedicated discussion hubs for every game where you can ask for help, organize multiplayer boosting sessions, or debate a title's difficulty rating.
+* **📊 Real-Time Analytics:** Visualize exactly how close you are to 100% completion and compete in global or regional leaderboards against fellow collectors.
 
 ---
-
-## 🚀 Overview
-
-In the modern gaming era, our achievements are scattered across multiple ecosystems. **TrophyHub** solves this by bridging the gap between Steam, Xbox, PlayStation, and Retro-gaming platforms, providing a unified space for tracking, guiding, and community discussion.
-
-## ✨ Key Features
-
-* **🌐 Omni-Channel Profile:** Sync accounts from Steam, Xbox Network, PSN, and RetroAchievements to calculate your "Global Gamer Level."
-* **📖 Community-Driven Guides:** A robust engine for step-by-step guides, featuring integrated media and expert tips for the hardest unlocks.
-* **💬 Challenge Forums:** Dedicated hubs for every game to organize "boosting sessions," trade tips, or discuss completion difficulty.
-* **📊 Real-Time Analytics:** Track your progress toward the 100% completion mark with dynamic progress bars and global leaderboards.
 
 ## 🛠️ Tech Stack (Planned/Current)
 
