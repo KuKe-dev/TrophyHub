@@ -16,7 +16,6 @@ TrophyHub is the centralized platform built for completionist gamers. It is a sp
 * **Frontend:** [e.g., React.js / Typescript]
 * **Backend:** [e.g., Express.js / Typescript]
 * **Database:** [e.g., PostgreSQL]
-* **Integrations:** OAuth2 & Web Scraping (where APIs are restricted)
 
 ## 🎯 Project Goals
 
